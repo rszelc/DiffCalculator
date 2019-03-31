@@ -1,0 +1,12 @@
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\bin\Debug\numerki.exe.config
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\bin\Debug\numerki.exe
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\bin\Debug\numerki.pdb
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\obj\Debug\numerki.csprojResolveAssemblyReference.cache
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\obj\Debug\numerki.Form1.resources
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\obj\Debug\numerki.Properties.Resources.resources
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\obj\Debug\numerki.csproj.GenerateResource.Cache
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\obj\Debug\numerki.exe
+c:\users\rafał\documents\visual studio 2015\Projects\numerki\numerki\obj\Debug\numerki.pdb
+K:\pendrive 32\Numerki zadanie\numerki\numerki\bin\Debug\numerki.exe.config
+K:\pendrive 32\Numerki zadanie\numerki\numerki\obj\Debug\numerki.exe
+K:\pendrive 32\Numerki zadanie\numerki\numerki\obj\Debug\numerki.pdb
